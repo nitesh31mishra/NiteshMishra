@@ -16,10 +16,10 @@ Hi 👋
 </p>
 
 <h1>About Me <img src="https://media.giphy.com/media/r3J4ibKEk5MafUxFue/giphy.gif" width="48" /></h1>
+I am pursuing my Masters in Computer Science degree from North Carolina State University, Raleigh, NC. 
+My Interest is more into Software Developement, Machine learning, Deep learning, Computer Vision and NLP. Apart from these core areas, I am also interested in MLOPS.
 
-My Interest is more into machine learning, deep learning, computer vision and NLP. Apart from these core areas, I am also interested in MLOPS.
-
-* 🌍  I'm based in Mumbai, India
+* 🌍  I'm based in Raleigh, North Carolina
 * ✉️  You can contact me at [nitesh31mishra@gmail.com](mailto:nitesh31mishra@gmail.com)
 * 🧠  I'm currently learning MLOPS
 * 🤝  I'm open to collaborating on Data Science and MLOPS projects
