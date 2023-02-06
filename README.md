@@ -19,10 +19,9 @@ Hi 👋
 I am pursuing my Masters in Computer Science degree from North Carolina State University, Raleigh, NC. 
 My Interest is more into Software Developement, Machine learning, Deep learning, Computer Vision and NLP. Apart from these core areas, I am also interested in MLOPS.
 
-* 🌍  I'm based in Raleigh, North Carolina
+* 🌍  I'm located in Raleigh, North Carolina
 * ✉️  You can contact me at [nitesh31mishra@gmail.com](mailto:nitesh31mishra@gmail.com)
 * 🧠  I'm currently learning MLOPS
-* 🤝  I'm open to collaborating on Data Science and MLOPS projects
 * ⚡  Fun Fact: Debugging is like being the detective in a crime movie where you're also the murderer at the same time.
 
 
